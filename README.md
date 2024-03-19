@@ -1,0 +1,1 @@
+The "Simon Says" game implemented in JavaScript is a classic memory game where players have to repeat a sequence of actions. In this game, there are four colored buttons (green, red, yellow, blue), and the game progresses through levels, increasing the sequence length each time the player successfully completes a level.
